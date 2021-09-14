@@ -1,4 +1,8 @@
 # Swift: Todo List
+Simple ToDo application. Don't save data, only for learning
+
+## Screenshot
+![Todo](https://user-images.githubusercontent.com/9497415/133315706-a10b110d-3726-4603-ad29-a5ccc00b251f.png)
 
 ## More Swift code
 - [Hello World!](https://github.com/erossini/Swift-HelloWorld)
